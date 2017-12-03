@@ -1,5 +1,5 @@
 # LearningNotes
 Android学习笔记
 
-Android开发环境配置（使用国内镜像文件）
+1.收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等
 http://www.androiddevtools.cn/index.html
