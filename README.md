@@ -6,3 +6,6 @@ http://www.androiddevtools.cn/index.html
 
 2.Android开发大牛的经验总结和读书笔记
 https://github.com/francistao/LearningNotes
+
+3.Android技术指南群群主寂小华
+可以内推腾讯、小米、网易、阿里、京东岗位
